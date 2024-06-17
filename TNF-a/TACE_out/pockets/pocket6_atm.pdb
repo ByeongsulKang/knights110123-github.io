@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket     6:
+HEADER 0  - Pocket Score                      : 0.1026
+HEADER 1  - Drug Score                        : 0.0062
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7055
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5054
+HEADER 5  - Mean B-factor of pocket residues  : 0.1369
+HEADER 6  - Hydrophobicity Score              : -3.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 239.1717
+HEADER 10 - Pocket volume (convex hull)       : 11.6341
+HEADER 11 - Charge Score                      :     4
+HEADER 12 - Local hydrophobic density Score   : 8.0000
+HEADER 13 - Number of apolar alpha sphere     :     9
+HEADER 14 - Proportion of apolar alpha sphere : 0.3103
+ATOM   4197   CZ ARG E 237       1.384 112.562  26.597  0.00  0.00           C 0
+ATOM   4196   NE ARG E 237       2.566 112.119  26.999  0.00  0.00           N 0
+ATOM   4148    O HIS E 233       3.449 107.236  25.548  0.00  0.00           O 0
+ATOM   4199  NH2 ARG E 237       1.288 113.230  25.458  0.00  0.00           N 0
+ATOM   4598    O LYS E 286       2.852 109.336  20.811  0.00  0.00           O 0
+ATOM   4184  CD2 TYR E 236       5.793 109.015  22.384  0.00  0.00           C 0
+ATOM   4192    O ARG E 237       7.573 110.625  28.362  0.49  5.36           O 0
+ATOM   4235    N GLY E 242       9.049 111.484  25.189  0.00  0.00           N 0
+ATOM   4227    O ARG E 241      10.336 113.302  25.402  0.59  6.43           O 0
+ATOM   4194   CG ARG E 237       4.250 110.882  28.277  0.00  0.00           C 0
+ATOM   4190   CA ARG E 237       5.997 109.591  26.895  0.00  0.00           C 0
+ATOM   4186  CE2 TYR E 236       6.017 110.014  21.442  0.00  0.00           C 0
+ATOM   4226    C ARG E 241       9.956 112.217  25.879  0.00  0.00           C 0
+ATOM   4225   CA ARG E 241      10.450 111.631  27.185  0.00  0.00           C 0
+ATOM   4231   NE ARG E 241      11.061 113.264  30.437  0.41  6.56           N 0
+ATOM   4236   CA GLY E 242       8.478 111.934  23.918  0.00  0.00           C 0
+ATOM   4149   CB HIS E 233       1.271 106.416  23.470  0.00  0.00           C 0
+ATOM   4616   CD PRO E 288      -1.887 108.988  22.002  0.00  0.00           C 0
+ATOM   4152  CD2 HIS E 233      -0.311 106.987  25.440  0.00  0.00           C 0
+ATOM   4193   CB ARG E 237       4.524 109.956  27.099  0.00  0.00           C 0
+TER
+END

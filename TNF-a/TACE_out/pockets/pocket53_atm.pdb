@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    53:
+HEADER 0  - Pocket Score                      : -0.0688
+HEADER 1  - Drug Score                        : 0.0036
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.0510
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5780
+HEADER 5  - Mean B-factor of pocket residues  : 0.1750
+HEADER 6  - Hydrophobicity Score              : 27.1429
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 4.7143
+HEADER 9  - Pocket volume (Monte Carlo)       : 402.7980
+HEADER 10 - Pocket volume (convex hull)       : 12.9916
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 10.0000
+HEADER 13 - Number of apolar alpha sphere     :    11
+HEADER 14 - Proportion of apolar alpha sphere : 0.5000
+ATOM   5454   CG LEU E 395      15.709 101.175  41.252  0.00  0.00           C 0
+ATOM   5455  CD1 LEU E 395      16.604 100.536  42.285  0.00  0.00           C 0
+ATOM   5456  CD2 LEU E 395      15.905 102.694  41.239  0.00  0.00           C 0
+ATOM   5432   CE LYS E 392       9.292 104.680  44.650  0.00  0.00           C 0
+ATOM   5481  OE2 GLU E 398      14.010  98.201  42.732  0.47  8.57           O 0
+ATOM   5404    O ASN E 389       6.023 102.525  41.509  0.56  2.14           O 0
+ATOM   5413   CB TYR E 390       4.455 102.058  44.287  0.00  0.00           C 0
+ATOM   5416  CD2 TYR E 390       4.606  99.565  44.541  0.00  0.00           C 0
+ATOM   5433   NZ LYS E 392       9.059 105.037  46.085  0.00  0.00           N 0
+ATOM   5414   CG TYR E 390       3.889 100.726  44.725  0.00  0.00           C 0
+ATOM   5442   CA ILE E 394      11.394 101.512  38.720  0.00  0.00           C 0
+ATOM   5437    O THR E 393      11.000 104.098  39.416  0.52  9.64           O 0
+ATOM   5430   CG LYS E 392       8.453 105.180  42.310  0.00  0.00           C 0
+ATOM   5480  OE1 GLU E 398      13.075  99.030  40.951  0.77  6.43           O 0
+ATOM   5449    N LEU E 395      13.780 101.187  39.119  0.00  0.00           N 0
+ATOM   5408  ND2 ASN E 389       6.091  97.806  41.982  0.67  6.56           N 0
+ATOM   5447  CG2 ILE E 394       9.538  99.897  39.005  0.00  0.00           C 0
+ATOM   5405   CB ASN E 389       6.151  99.580  40.256  0.00  0.00           C 0
+TER
+END

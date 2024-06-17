@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : -0.0275
+HEADER 1  - Drug Score                        : 0.0027
+HEADER 2  - Number of alpha spheres           :    19
+HEADER 3  - Mean alpha-sphere radius          : 4.1188
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.6319
+HEADER 5  - Mean B-factor of pocket residues  : 0.3323
+HEADER 6  - Hydrophobicity Score              : -2.2222
+HEADER 7  - Polarity Score                    :     9
+HEADER 8  - Amino Acid based volume Score     : 5.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 367.7612
+HEADER 10 - Pocket volume (convex hull)       : 17.6281
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 9.0000
+HEADER 13 - Number of apolar alpha sphere     :    10
+HEADER 14 - Proportion of apolar alpha sphere : 0.5263
+ATOM   2413    O TRP C 267      41.046  55.403  20.225  0.66  3.21           O 0
+ATOM   3877   CG LYS C 455      39.751  59.194  18.907  0.00  0.00           C 0
+ATOM   3856   CG GLN C 452      40.284  61.695  21.712  0.00  0.00           C 0
+ATOM   2439  ND2 ASN C 269      43.431  59.329  22.305  0.00  0.00           N 0
+ATOM   3881    N GLN C 456      36.729  57.460  20.725  0.00  0.00           N 0
+ATOM   3885   CB GLN C 456      35.916  57.835  22.978  0.00  0.00           C 0
+ATOM   3882   CA GLN C 456      36.249  56.768  21.918  0.00  0.00           C 0
+ATOM   3889  NE2 GLN C 456      35.497  59.732  24.973  0.56  8.75           N 0
+ATOM   3911  CD2 TYR C 459      39.618  52.615  22.739  0.00  0.00           C 0
+ATOM   3886   CG GLN C 456      35.301  57.409  24.287  0.00  0.00           C 0
+ATOM   2425   CA ASP C 268      43.281  54.592  21.595  0.00  0.00           C 0
+ATOM   3884    O GLN C 456      35.115  54.653  21.876  0.00  0.00           O 0
+ATOM   3921   CG LYS C 460      34.327  52.423  23.771  0.00  0.00           C 0
+ATOM   3922   CD LYS C 460      33.487  52.719  25.011  0.00  0.00           C 0
+ATOM   2427    O ASP C 268      44.939  55.857  22.815  0.71  9.64           O 0
+ATOM   3913  CE2 TYR C 459      40.550  51.921  23.503  0.00  0.00           C 0
+ATOM   2428   CB ASP C 268      43.753  53.319  22.300  0.00  0.00           C 0
+ATOM   3947  OE1 GLU C 463      37.852  49.060  23.934  0.64  8.57           O 0
+TER
+END

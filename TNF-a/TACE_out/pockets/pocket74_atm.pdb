@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    74:
+HEADER 0  - Pocket Score                      : -0.1099
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.9176
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4738
+HEADER 5  - Mean B-factor of pocket residues  : 0.1011
+HEADER 6  - Hydrophobicity Score              : 35.7143
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.5714
+HEADER 9  - Pocket volume (Monte Carlo)       : 182.8345
+HEADER 10 - Pocket volume (convex hull)       : 1.0283
+HEADER 11 - Charge Score                      :    -2
+HEADER 12 - Local hydrophobic density Score   : 0.0000
+HEADER 13 - Number of apolar alpha sphere     :     1
+HEADER 14 - Proportion of apolar alpha sphere : 0.0667
+ATOM   5074    N ASP E 344      -2.159  97.115  39.404  0.56  2.19           N 0
+ATOM   5077    O ASP E 344      -1.342  94.965  41.157  0.52  4.29           O 0
+ATOM   5078   CB ASP E 344      -4.106  96.368  40.558  0.00  0.00           C 0
+ATOM   4832  CG1 VAL E 314      -1.632  91.464  35.381  0.00  0.00           C 0
+ATOM   5099  OG1 THR E 347       0.567  92.391  39.612  0.65  6.43           O 0
+ATOM   5089   CE MET E 345      -3.822  92.146  44.370  0.00  0.00           C 0
+ATOM   5081  OD2 ASP E 344      -5.144  95.084  42.300  0.00  0.00           O 0
+ATOM   4825  OD1 ASP E 313      -6.895  92.234  35.852  0.44  8.57           O 0
+ATOM   5067   CB PHE E 343       0.101  96.319  37.112  0.00  0.00           C 0
+ATOM   4827    N VAL E 314      -3.694  93.457  34.232  0.66  2.19           N 0
+ATOM   4808    O TRP E 312      -4.064  96.790  34.529  0.41  3.21           O 0
+ATOM   4820   CA ASP E 313      -5.878  94.558  34.328  0.00  0.00           C 0
+ATOM   4831   CB VAL E 314      -1.349  92.681  34.522  0.00  0.00           C 0
+TER
+END

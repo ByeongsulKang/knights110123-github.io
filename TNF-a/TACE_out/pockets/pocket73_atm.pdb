@@ -1,0 +1,35 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    73:
+HEADER 0  - Pocket Score                      : -0.1083
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    15
+HEADER 3  - Mean alpha-sphere radius          : 3.7510
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4030
+HEADER 5  - Mean B-factor of pocket residues  : 0.2332
+HEADER 6  - Hydrophobicity Score              : 6.8000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Amino Acid based volume Score     : 6.0000
+HEADER 9  - Pocket volume (Monte Carlo)       : 186.3151
+HEADER 10 - Pocket volume (convex hull)       : 5.4657
+HEADER 11 - Charge Score                      :     1
+HEADER 12 - Local hydrophobic density Score   : 2.0000
+HEADER 13 - Number of apolar alpha sphere     :     3
+HEADER 14 - Proportion of apolar alpha sphere : 0.2000
+ATOM   6224   CZ TYR I 238      14.710  -7.075  25.726  0.00  0.00           C 0
+ATOM   7414   NZ LYS I 388       9.785 -10.542  22.043  0.00  0.00           N 0
+ATOM   6222  CE1 TYR I 238      15.673  -7.619  24.912  0.00  0.00           C 0
+ATOM   6225   OH TYR I 238      14.470  -7.684  26.936  0.00  0.00           O 0
+ATOM   7057  CE2 TYR I 340      13.173  -7.330  20.564  0.00  0.00           C 0
+ATOM   6223  CE2 TYR I 238      14.003  -5.948  25.348  0.00  0.00           C 0
+ATOM   7055  CD2 TYR I 340      12.663  -6.092  20.936  0.00  0.00           C 0
+ATOM   7051    O TYR I 340      10.001  -4.654  22.086  0.65  2.14           O 0
+ATOM   6812  OD1 ASP I 310       7.726 -10.047  24.554  0.00  0.00           O 0
+ATOM   6813  OD2 ASP I 310       7.329  -8.813  22.736  0.56  1.07           O 0
+ATOM   6178  NH1 ARG I 234       7.292  -4.259  26.147  0.00  0.00           N 0
+ATOM   6809    O ASP I 310       5.716  -6.833  24.816  0.58  2.14           O 0
+ATOM   6174   CG ARG I 234      10.294  -2.105  25.105  0.00  0.00           C 0
+TER
+END

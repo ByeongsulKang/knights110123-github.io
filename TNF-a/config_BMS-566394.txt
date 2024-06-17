@@ -1,0 +1,10 @@
+
+receptor = TACE.pdbqt
+ligand = ligands_3D/BMS-566394.pdbqt
+center_x = 0
+center_y = 0
+center_z = 0
+size_x = 40
+size_y = 40
+size_z = 40
+out = out_BMS-566394.pdbqt

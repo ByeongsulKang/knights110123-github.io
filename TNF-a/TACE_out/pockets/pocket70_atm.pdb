@@ -1,0 +1,47 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    70:
+HEADER 0  - Pocket Score                      : -0.1004
+HEADER 1  - Drug Score                        : 0.0080
+HEADER 2  - Number of alpha spheres           :    29
+HEADER 3  - Mean alpha-sphere radius          : 3.7141
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4704
+HEADER 5  - Mean B-factor of pocket residues  : 0.5735
+HEADER 6  - Hydrophobicity Score              : 32.1000
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.6000
+HEADER 9  - Pocket volume (Monte Carlo)       : 365.5125
+HEADER 10 - Pocket volume (convex hull)       : 42.2423
+HEADER 11 - Charge Score                      :    -1
+HEADER 12 - Local hydrophobic density Score   : 10.7692
+HEADER 13 - Number of apolar alpha sphere     :    13
+HEADER 14 - Proportion of apolar alpha sphere : 0.4483
+ATOM   5996    O ALA E 466      15.474  74.847  17.072  0.44  6.43           O 0
+ATOM   5997   CB ALA E 466      17.054  76.177  19.359  0.00  0.00           C 0
+ATOM   5972    O GLU E 463      15.758  71.433  20.358  0.55  7.50           O 0
+ATOM   4044   CB ASP E 219      22.564  72.362  17.918  0.00  0.00           C 0
+ATOM   4512   OH TYR E 275      21.247  75.498  21.007  0.69  3.21           O 0
+ATOM   4485  CE1 PHE E 272      21.313  72.963  23.259  0.00  0.00           C 0
+ATOM   5964    O ILE E 462      15.808  74.448  21.481  0.00  0.00           O 0
+ATOM   5970   CA GLU E 463      16.458  72.011  22.555  0.00  0.00           C 0
+ATOM   4487   CZ PHE E 272      20.204  73.702  23.655  0.00  0.00           C 0
+ATOM   4059   CB MET E 221      23.936  78.641  12.730  0.00  0.00           C 0
+ATOM   4053   CG PRO E 220      25.608  75.046  15.322  0.00  0.00           C 0
+ATOM   4054   CD PRO E 220      24.421  74.309  15.920  0.00  0.00           C 0
+ATOM   3751  CD1 ILE C 438      27.253  73.316   9.657  0.00  0.00           C 0
+ATOM   4060   CG MET E 221      25.339  79.039  12.310  0.00  0.00           C 0
+ATOM   4055    N MET E 221      24.062  77.666  14.947  0.00  0.00           N 0
+ATOM   4069   CD LYS E 222      18.515  75.902  13.109  0.00  0.00           C 0
+ATOM   4063    N LYS E 222      21.342  78.371  15.091  0.00  0.00           N 0
+ATOM   4068   CG LYS E 222      18.933  77.293  13.517  0.00  0.00           C 0
+ATOM   4067   CB LYS E 222      19.077  77.440  15.033  0.00  0.00           C 0
+ATOM   4048    N PRO E 220      24.184  75.037  17.199  0.77  1.09           N 0
+ATOM   4066    O LYS E 222      19.576  78.167  17.698  0.51  2.14           O 0
+ATOM   4047  OD2 ASP E 219      21.720  70.695  16.478  0.00  0.00           O 0
+ATOM   4071   NZ LYS E 222      16.666  74.689  11.973  0.00  0.00           N 0
+ATOM   4046  OD1 ASP E 219      23.888  71.100  16.378  0.56  7.50           O 0
+ATOM   4045   CG ASP E 219      22.741  71.305  16.848  0.00  0.00           C 0
+TER
+END

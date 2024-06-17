@@ -1,0 +1,59 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.1824
+HEADER 1  - Drug Score                        : 0.0624
+HEADER 2  - Number of alpha spheres           :    64
+HEADER 3  - Mean alpha-sphere radius          : 4.2680
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5267
+HEADER 5  - Mean B-factor of pocket residues  : 0.2352
+HEADER 6  - Hydrophobicity Score              : 41.9167
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Amino Acid based volume Score     : 4.6667
+HEADER 9  - Pocket volume (Monte Carlo)       : 750.0128
+HEADER 10 - Pocket volume (convex hull)       : 126.0471
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 22.2400
+HEADER 13 - Number of apolar alpha sphere     :    25
+HEADER 14 - Proportion of apolar alpha sphere : 0.3906
+ATOM   4875  OE2 GLU E 319      -6.252  86.091  28.935  0.58  5.36           O 0
+ATOM   4874  OE1 GLU E 319      -7.309  88.014  28.713  0.00  0.00           O 0
+ATOM   4873   CD GLU E 319      -6.391  87.209  28.403  0.00  0.00           C 0
+ATOM   5287  CG2 VAL E 373     -13.680  85.003  23.823  0.00  0.00           C 0
+ATOM   4678   CE LYS E 296     -12.004  94.432  24.712  0.00  0.00           C 0
+ATOM   4912   CZ PHE E 323      -9.173  91.046  17.525  0.00  0.00           C 0
+ATOM   4910  CE1 PHE E 323      -8.372  92.112  17.972  0.00  0.00           C 0
+ATOM   4679   NZ LYS E 296     -11.895  93.156  25.448  0.00  0.00           N 0
+ATOM   4850   CE MET E 316     -10.496  92.398  29.474  0.00  0.00           C 0
+ATOM   5286  CG1 VAL E 373     -13.712  87.308  22.925  0.00  0.00           C 0
+ATOM   4911  CE2 PHE E 323      -8.942  89.785  17.993  0.00  0.00           C 0
+ATOM   4872   CG GLU E 319      -5.376  87.569  27.347  0.00  0.00           C 0
+ATOM   5325  CD1 ILE E 378      -4.901  85.023  21.264  0.00  0.00           C 0
+ATOM   5137   OH TYR E 352      -2.563  85.860  26.525  0.78  6.43           O 0
+ATOM   5284    O VAL E 373     -13.736  87.134  19.796  0.52  4.29           O 0
+ATOM   4871   CB GLU E 319      -5.643  88.819  26.534  0.00  0.00           C 0
+ATOM   4846    O MET E 316      -5.477  92.157  27.740  0.74  2.14           O 0
+ATOM   5273   OG SER E 371      -9.385  84.879  20.557  0.17  6.43           O 0
+ATOM   5289   CA GLY E 374     -11.139  87.176  18.843  0.00  0.00           C 0
+ATOM   5291    O GLY E 374     -11.521  87.777  16.548  0.37  2.14           O 0
+ATOM   4883  OE1 GLN E 320      -8.363  94.053  24.080  0.67  7.50           O 0
+ATOM   4884  NE2 GLN E 320      -7.568  94.628  22.009  0.65  3.28           N 0
+ATOM   4908  CD1 PHE E 323      -7.362  91.860  18.885  0.00  0.00           C 0
+ATOM   4907   CG PHE E 323      -7.122  90.579  19.345  0.00  0.00           C 0
+ATOM   5285   CB VAL E 373     -13.110  85.917  22.755  0.00  0.00           C 0
+ATOM   5288    N GLY E 374     -11.680  86.286  19.830  0.78  1.09           N 0
+ATOM   5253  CE2 TYR E 369      -6.562  80.706  21.978  0.00  0.00           C 0
+ATOM   5345  CD2 LEU E 380      -1.935  83.912  23.105  0.00  0.00           C 0
+ATOM   5344  CD1 LEU E 380      -1.897  81.550  23.890  0.00  0.00           C 0
+ATOM   5134  CE1 TYR E 352      -1.365  83.964  27.398  0.00  0.00           C 0
+ATOM   4876    N GLN E 320      -4.823  91.451  25.150  0.00  0.00           N 0
+ATOM   4674    O LYS E 296      -9.314  97.501  20.981  0.00  0.00           O 0
+ATOM   4909  CD2 PHE E 323      -7.928  89.546  18.902  0.00  0.00           C 0
+ATOM   4906   CB PHE E 323      -6.051  90.298  20.366  0.00  0.00           C 0
+ATOM   4869    C GLU E 319      -4.587  90.176  24.764  0.00  0.00           C 0
+ATOM   4877   CA GLN E 320      -5.154  92.476  24.149  0.00  0.00           C 0
+ATOM   4870    O GLU E 319      -4.536  89.847  23.586  0.76  6.43           O 0
+TER
+END

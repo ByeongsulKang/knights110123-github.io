@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    22:
+HEADER 0  - Pocket Score                      : 0.0112
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    22
+HEADER 3  - Mean alpha-sphere radius          : 3.8065
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.4875
+HEADER 5  - Mean B-factor of pocket residues  : 0.1598
+HEADER 6  - Hydrophobicity Score              : 8.6250
+HEADER 7  - Polarity Score                    :     7
+HEADER 8  - Amino Acid based volume Score     : 5.3750
+HEADER 9  - Pocket volume (Monte Carlo)       : 271.3395
+HEADER 10 - Pocket volume (convex hull)       : 24.7842
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 6.0000
+HEADER 13 - Number of apolar alpha sphere     :     7
+HEADER 14 - Proportion of apolar alpha sphere : 0.3182
+ATOM   4209  CE2 TYR E 238       2.809 109.211  31.022  0.00  0.00           C 0
+ATOM   4195   CD ARG E 237       2.805 111.370  28.235  0.00  0.00           C 0
+ATOM   4152  CD2 HIS E 233      -0.311 106.987  25.440  0.00  0.00           C 0
+ATOM   4198  NH1 ARG E 237       0.311 112.309  27.334  0.00  0.00           N 0
+ATOM   4154  NE2 HIS E 233      -1.391 106.351  25.997  0.00  0.00           N 0
+ATOM   4211   OH TYR E 238       1.615 111.136  31.789  0.00  0.00           O 0
+ATOM   5037    O TYR E 340       2.370 103.754  32.230  0.00  0.00           O 0
+ATOM   5041  CD2 TYR E 340       4.854 105.667  33.229  0.00  0.00           C 0
+ATOM   5400   NZ LYS E 388       1.425 106.430  36.927  0.00  0.00           N 0
+ATOM   4798  OD1 ASP E 310      -1.296 106.033  35.743  0.00  0.00           O 0
+ATOM   4164  NH1 ARG E 234      -2.167 103.740  31.212  0.50  4.37           N 0
+ATOM   4161   CD ARG E 234      -0.049 103.762  29.484  0.00  0.00           C 0
+ATOM   4163   CZ ARG E 234      -2.431 103.444  29.954  0.00  0.00           C 0
+ATOM   4721    O ALA E 301      -5.346 105.868  28.274  0.00  0.00           O 0
+ATOM   4160   CG ARG E 234       0.604 104.710  28.505  0.00  0.00           C 0
+ATOM   4162   NE ARG E 234      -1.445 103.453  29.092  0.00  0.00           N 0
+ATOM   4208  CE1 TYR E 238       3.946 110.944  32.259  0.00  0.00           C 0
+ATOM   4210   CZ TYR E 238       2.789 110.415  31.675  0.00  0.00           C 0
+ATOM   5043  CE2 TYR E 340       5.316 106.398  34.315  0.00  0.00           C 0
+ATOM   4156   CA ARG E 234       2.828 105.700  27.733  0.00  0.00           C 0
+TER
+END

@@ -1,0 +1,24 @@
+
+                        SHEBA(Version 3.0)                       
+         (Structural Homology by Environment Based Alignment)	    
+
+********************************************************************
+               Transformation matrix for 7ole_ADP.
+********************************************************************
+MTX      184.6536560059      132.3531188965      187.0869903564
+MTX        1.0000000000        0.0000000071       -0.0000000003
+MTX       -0.0000000071        1.0000000000       -0.0000000077
+MTX        0.0000000003        0.0000000077        1.0000000000
+MTX      184.6536560059      132.3531188965      187.0869903564
+
+   7ole_ADP(433) 7ole_ADP(433)  m:433  %ma:100   %mb:100  id:433  rms:0.0A  iter:3
+
+  Two residues are matched when their CA distance is less than 3.5 A. 
+  m:    the number of matched residues in 3D space.  
+  %ma:  the percentage of matched residues in the first structure. 
+  %mb:  the percentage of matched residues in the second structure. 
+  id:   the number of identical residue pair. 
+  rms:  the root mean square deviation of CA distance in Angstrom
+        over all matched residues. 
+  iter: the number of iteration. 
+ 

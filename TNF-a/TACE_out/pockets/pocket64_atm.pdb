@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    64:
+HEADER 0  - Pocket Score                      : -0.0899
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of alpha spheres           :    16
+HEADER 3  - Mean alpha-sphere radius          : 4.0495
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5817
+HEADER 5  - Mean B-factor of pocket residues  : 0.5022
+HEADER 6  - Hydrophobicity Score              : -6.6250
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 285.5605
+HEADER 10 - Pocket volume (convex hull)       : 9.6399
+HEADER 11 - Charge Score                      :     3
+HEADER 12 - Local hydrophobic density Score   : 1.0000
+HEADER 13 - Number of apolar alpha sphere     :     2
+HEADER 14 - Proportion of apolar alpha sphere : 0.1250
+ATOM   3221  CE2 TYR C 369      15.610  39.451  16.456  0.00  0.00           C 0
+ATOM   3205   CE LYS C 367      19.809  41.423  17.510  0.00  0.00           C 0
+ATOM   3153  ND2 ASN C 359      20.012  41.969  21.480  0.58  3.28           N 0
+ATOM   3206   NZ LYS C 367      19.545  39.971  17.358  0.72  6.56           N 0
+ATOM   3169  NE2 HIS C 361      17.678  44.522  16.878  0.00  0.00           N 0
+ATOM   2018    O ARG A 473      13.026  38.303  20.571  0.00  0.00           O 0
+ATOM     62   NZ LYS A 226      10.344  42.561  22.139  0.00  0.00           N 0
+ATOM   2017    C ARG A 473      12.360  38.810  21.514  0.00  0.00           C 0
+ATOM   3219  CD2 TYR C 369      15.195  40.569  15.718  0.00  0.00           C 0
+ATOM   2013  OE1 GLU A 472       8.846  41.873  17.350  0.53  5.36           O 0
+ATOM   2014  OE2 GLU A 472       9.612  41.681  15.323  0.61  4.29           O 0
+ATOM   2012   CD GLU A 472       9.207  41.164  16.387  0.00  0.00           C 0
+ATOM   2010   CB GLU A 472       9.820  38.990  17.597  0.00  0.00           C 0
+ATOM   3241   OG SER C 371      10.998  44.362  14.230  0.69  8.57           O 0
+ATOM   2009    O GLU A 472       9.771  40.147  20.451  0.47  3.21           O 0
+ATOM   3216   CB TYR C 369      15.699  42.414  13.975  0.00  0.00           C 0
+ATOM   3240   CB SER C 371      12.212  44.421  13.384  0.00  0.00           C 0
+TER
+END

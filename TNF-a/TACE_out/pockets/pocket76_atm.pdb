@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pdb format file writen by the programm fpocket.                 
+HEADER It represents the atoms contacted by the voronoi vertices of the pocket.  
+HEADER                                                                           
+HEADER Information about the pocket    76:
+HEADER 0  - Pocket Score                      : -0.1657
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of alpha spheres           :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.1097
+HEADER 4  - Mean alpha-sphere Solvent Acc.    : 0.5422
+HEADER 5  - Mean B-factor of pocket residues  : 0.3917
+HEADER 6  - Hydrophobicity Score              : 39.1250
+HEADER 7  - Polarity Score                    :     4
+HEADER 8  - Amino Acid based volume Score     : 4.8750
+HEADER 9  - Pocket volume (Monte Carlo)       : 273.8346
+HEADER 10 - Pocket volume (convex hull)       : 8.9751
+HEADER 11 - Charge Score                      :     0
+HEADER 12 - Local hydrophobic density Score   : 3.0000
+HEADER 13 - Number of apolar alpha sphere     :     4
+HEADER 14 - Proportion of apolar alpha sphere : 0.2222
+ATOM   2034   CE MET C 221      42.764  37.994  15.883  0.00  0.00           C 0
+ATOM   2027    N MET C 221      44.324  40.267  14.426  0.42  9.84           N 0
+ATOM   2038    O LYS C 222      39.972  42.150  13.580  0.47  3.21           O 0
+ATOM   2484   OH TYR C 275      42.241  44.960  16.744  0.60  7.50           O 0
+ATOM   3941   CA GLU C 463      36.761  46.122  20.746  0.00  0.00           C 0
+ATOM   2459   CZ PHE C 272      41.111  47.551  18.850  0.00  0.00           C 0
+ATOM   2457  CE1 PHE C 272      42.220  47.194  19.594  0.00  0.00           C 0
+ATOM   3935    O ILE C 462      36.174  45.467  18.128  0.00  0.00           O 0
+ATOM   3968   CB ALA C 466      37.260  43.416  15.960  0.00  0.00           C 0
+ATOM   3943    O GLU C 463      35.920  43.986  21.393  0.00  0.00           O 0
+ATOM   3944   CB GLU C 463      36.992  46.868  22.054  0.00  0.00           C 0
+ATOM   3948  OE2 GLU C 463      39.690  47.883  24.003  0.00  0.00           O 0
+ATOM   3945   CG GLU C 463      38.290  47.641  22.096  0.00  0.00           C 0
+ATOM   3976  OE1 GLN C 467      38.661  38.719  20.809  0.71  8.57           O 0
+ATOM   3974   CG GLN C 467      37.363  39.060  18.826  0.00  0.00           C 0
+ATOM   2039   CB LYS C 222      39.554  39.328  13.145  0.00  0.00           C 0
+TER
+END
